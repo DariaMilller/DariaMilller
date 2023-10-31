@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DariaMilller
+- 👀 Aspiring Manual Tester 
+- 🌱 Exploring the World of Quality Assurance 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
